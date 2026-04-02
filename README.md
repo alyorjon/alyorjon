@@ -31,3 +31,4 @@ Middle Python Backend Developer based in Tashkent, Uzbekistan, with 3+ years of 
 ## 📫 Reach me
 
 Telegram: [@alyor_admin](https://t.me/alyor_dev)
+Interview: [prepare](https://github.com/alyorjon/interviews)

@@ -1,5 +1,5 @@
 # Hi, I'm Alyorjon 👋
-
+MyCV: [prepare](https://github.com/alyorjon/MyCV)
 > *Building systems that power people's everyday lives.*
 
 Middle Python Backend Developer based in Tashkent, Uzbekistan, with 3+ years of experience across production APIs, enterprise ERP systems, Linux infrastructure, and VoIP/network administration.

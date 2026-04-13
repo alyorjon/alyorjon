@@ -1,5 +1,6 @@
 # Hi, I'm Alyorjon 👋
-MyCV: [Alyorjon Aminboyev](https://alyorjon-aminboyev.netlify.app/))
+MyCV: [Alyorjon Aminboyev](https://alyorjon-aminboyev.netlify.app/)
+\n
 Interview questions: [Inteview](https://interviews-for-alyorjon.netlify.app/)
 > *Building systems that power people's everyday lives.*
 
